@@ -1,4 +1,5 @@
 int main(){
     print("hello world");
+    print("welcome to cmrit");
     return 0;
     }
